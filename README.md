@@ -34,5 +34,11 @@ some of the choices i made:
 * I chose to use Vue because i am less farmiliar with it, making it somewhat more of a challenge
 * since i was using vite as a build tool i used vitest for unit testing
 * since no calculation method was provided for getting the Yearly salary i inferred that i needed to add "vakantiegeld" to it.
+* for the bonus i made the page multilingual with the use of i18n
+
+## Screenshot
+
+![image](https://github.com/callmebackdraft/CW.ABN.Assessment/assets/14372954/b2b74e72-5b51-40de-a760-51b85f77fb2b)
+
 
 
